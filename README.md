@@ -1,2 +1,2 @@
-# stockops
-StockOps Inventory Management System
+# StockOps - Inventory Management System
+## Cara Menginstall
