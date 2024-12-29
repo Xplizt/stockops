@@ -7,7 +7,8 @@ Silakan unduh sumber kode dan database dari repo github ini.
 Jika Anda belum memiliki MySQL atau XAMPP (untuk Windows), atau MAMP (untuk macOS), unduh dan instal salah satu dari program tersebut.
 
 3. Buat Database\
-Setelah program terinstal, buatlah database dengan nama stock, lalu impor file database yang telah diunduh. (folder DATABSE_FILE -> unzip stock.zip)
+Setelah program terinstal, buatlah database dengan nama stock, lalu impor file database yang telah diunduh. (folder DATABSE_FILE -> unzip stock.zip)\![image](https://github.com/user-attachments/assets/7911d130-a0e4-40f8-a187-28d64b577578)
+
 
 4. Letakkan Code dalam XAMPP\
 Jika database sudah berhasil diimpor, salin sumber kode yang telah diunduh ke folder htdocs yang terletak di direktori XAMPP atau MAMP.
