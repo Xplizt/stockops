@@ -1,7 +1,7 @@
 # StockOps - Inventory Management System
 ## Cara Menginstall
 1. Unduh Sumber Kode dan Database
-Silakan unduh sumber kode dan database dari repo github ini.
+\nSilakan unduh sumber kode dan database dari repo github ini.
 
 2. Persiapan Alat
 Jika Anda belum memiliki MySQL atau XAMPP (untuk Windows), atau MAMP (untuk macOS), unduh dan instal salah satu dari program tersebut.
