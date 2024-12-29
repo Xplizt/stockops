@@ -4,7 +4,7 @@
 Silakan unduh sumber kode dan database dari repo github ini.
 
 2. Persiapan Alat\
-Jika Anda belum memiliki MySQL atau XAMPP (untuk Windows), atau MAMP (untuk macOS), unduh dan instal salah satu dari program tersebut.
+Jika Anda belum memiliki MySQL atau XAMPP (untuk Windows), atau MAMP (untuk macOS), unduh dan instal salah satu dari program tersebut. # PASTIKAN XAMPP DAN PHP VERSION 8.0 #
 
 3. Buat Database\
 Setelah program terinstal, buatlah database dengan nama stock, lalu impor file database yang telah diunduh. (folder DATABSE_FILE -> unzip stock.zip) \
