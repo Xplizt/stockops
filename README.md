@@ -13,7 +13,7 @@ Setelah program terinstal, buatlah database dengan nama stock, lalu impor file d
 Jika database sudah berhasil diimpor, salin sumber kode yang telah diunduh ke folder htdocs yang terletak di direktori XAMPP atau MAMP.
 
 5. Konfigurasi File config.php\
-Buka file ~/application/config/config.php. Di dalam file tersebut, Anda akan menemukan site_url, yang merupakan array global. Ganti localhost:8888/stock dengan nomor port yang sesuai dengan sistem Anda. Misalnya, jika Anda menggunakan localhost:8080/stock, ubah ke nomor port tersebut atau ubah hanya menjadi https://localhost/stock
+Buka file ~/application/config/config.php. Di dalam file tersebut, Anda akan menemukan site_url, yang merupakan array global. Ganti localhost:8888/stockops dengan nomor port yang sesuai dengan sistem Anda. Misalnya, jika Anda menggunakan localhost:8080/stockops, ubah ke nomor port tersebut atau ubah hanya menjadi https://localhost/stockops
 
 6. Konfigurasi File database.php\
 Buka folder applications >> config >> database.php. Periksa apakah nama database yang dibuat sudah sesuai. Jika Anda menggunakan username dan password database yang berbeda di sistem Anda, ubah bagian username dan password agar sesuai. (biasanya username: 'root'; password: '')
