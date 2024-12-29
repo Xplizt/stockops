@@ -15,12 +15,17 @@ Jika database sudah berhasil diimpor, salin sumber kode yang telah diunduh ke fo
 5. Konfigurasi File config.php\
 Buka file ~/application/config/config.php. Di dalam file tersebut, Anda akan menemukan site_url, yang merupakan array global. Ganti localhost:8888/stockops dengan nomor port yang sesuai dengan sistem Anda. Misalnya, jika Anda menggunakan localhost:8080/stockops, ubah ke nomor port tersebut atau ubah hanya menjadi https://localhost/stockops
 ![image](https://github.com/user-attachments/assets/eaaa2767-2760-4abe-841e-82faa3cf44e9)
+![image](https://github.com/user-attachments/assets/2ad1cd6b-1c64-41de-b115-5838b05b8706)
 
 
 7. Konfigurasi File database.php\
 Buka folder applications >> config >> database.php. Periksa apakah nama database yang dibuat sudah sesuai. Jika Anda menggunakan username dan password database yang berbeda di sistem Anda, ubah bagian username dan password agar sesuai. (biasanya username: 'root'; password: '')
+![image](https://github.com/user-attachments/assets/47441412-4947-4e71-9b7c-936ab3557b88)
+![image](https://github.com/user-attachments/assets/044bd0d9-e16b-4901-adcc-5edb03eb6f30)
 
-8. Akses di Browser\
+
+
+9. Akses di Browser\
 Setelah semua file berhasil diinstal dan dikonfigurasi, buka browser Anda, lalu ketik url sesuai dengan yang Anda masukkan di config.php. Halaman tersebut seharusnya mengarahkan Anda ke halaman login.
 
 Kredensial admin:\
